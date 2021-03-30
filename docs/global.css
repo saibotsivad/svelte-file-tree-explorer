@@ -1,0 +1,33 @@
+/*
+
+# DEMO BITS
+
+These bits are just for styling the demo website. Please skip
+ahead to see how the demo component is styled.
+
+*/
+body {
+	padding: 0;
+	margin: 0 auto;
+	max-width: 50rem;
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 120%;
+}
+h1, h2, h3 {
+	font-weight: 300;
+	color: #4d0b0b;
+}
+.example {
+	border: 1px solid #444444;
+	margin-bottom: 3rem;
+}
+hr {
+	margin: 3rem 0;
+	color: #4d0b0b;
+	border-bottom: none;
+}
+.footer {
+	text-align: center;
+	color: #772424;
+	margin: 3rem 0 4rem 0;
+}
